@@ -2,7 +2,7 @@
 Ini saya
 
 - Ruby 
-- Python
+- Python3
 
 Saya akan jadi yang terbaik di dua bahasa tersebut.
 
