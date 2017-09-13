@@ -19,9 +19,10 @@ Saya akan memiliki banyak koleksi lensa dan kamera Leica.
 4. tunggu jadi
 
 ## Cara membuat matcha
-1. Beli dulu matcha nya, beli di mirotakampus merknya matchamu 
-2. bikin air panas, masak air ambil dari dapur1
-3. selesai
+1. Ke Mirota
+2. Beli dulu matcha nya, beli di mirotakampus merknya matchamu 
+3. bikin air panas, masak air ambil dari dapur1
+4. selesai
 
 ## Cara merakit laptop
 1. bikin mainboard, sendiri
