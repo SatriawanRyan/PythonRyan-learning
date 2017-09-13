@@ -18,6 +18,11 @@ Saya akan memiliki banyak koleksi lensa dan kamera Leica.
 3. langsung dijus saja
 4. tunggu jadi
 
+## Cara membuat matcha
+1. Beli dulu matcha nya
+2. bikin air panas
+3. selesai
+
 ## Cara memasak pempek
 1. beli sagu
 2. beli minyak
