@@ -24,7 +24,7 @@ Saya akan memiliki banyak koleksi lensa dan kamera Leica.
 3. selesai
 
 ## Cara merakit laptop
-1. bikin mainboard
+1. bikin mainboard, sendiri
 
 ## Cara memasak pempek
 1. beli sagu
