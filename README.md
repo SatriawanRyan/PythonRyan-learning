@@ -12,9 +12,14 @@ Saya akan memiliki banyak koleksi lensa dan kamera Leica.
 
 - install Python
 
-
 ## Cara membuat jus Alpukat
 1. beli alpukat
 2. beli blender
 3. langsung dijus saja
 4. tunggu jadi
+
+## Cara memasak pempek
+1. beli sagu
+2. beli minyak
+3. beli penggorengan
+4. pempek digoreng
